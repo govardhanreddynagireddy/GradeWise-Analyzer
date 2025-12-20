@@ -1,11 +1,11 @@
 
-# 📊 Student Performance & Prediction Analysis
+#  Student Performance & Prediction Analysis
 
 A Python data analysis project that evaluates student academic performance using **NumPy, Pandas, and Matplotlib**, and predicts performance categories based on attendance and marks.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 * **Python**
 * **NumPy**
@@ -14,7 +14,7 @@ A Python data analysis project that evaluates student academic performance using
 
 ---
 
-## 📌 Project Features
+## Project Features
 
 * Subject-wise average marks analysis
 * Attendance vs average marks correlation
@@ -24,7 +24,7 @@ A Python data analysis project that evaluates student academic performance using
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 Synthetic student data generated using NumPy.
 
@@ -40,7 +40,7 @@ Synthetic student data generated using NumPy.
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 * Horizontal bar chart (Subject vs Marks)
 * Scatter plot (Attendance vs Average Marks)
@@ -61,7 +61,7 @@ else:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 pip install numpy pandas matplotlib
@@ -70,7 +70,7 @@ python student_performance_analysis.py
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 * Data manipulation with Pandas
 * Numerical analysis using NumPy
@@ -80,22 +80,13 @@ python student_performance_analysis.py
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Machine learning prediction model
 * Streamlit dashboard
 * CSV export
 * Real-world dataset integration
 
----
-
-## ⭐ Resume Value
-
-✔ End-to-end data analysis project
-✔ Strong use of NumPy, Pandas & Matplotlib
-✔ Visualization + analytics + prediction
-
----
 
 ## 👤 Author
 
