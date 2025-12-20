@@ -39,7 +39,7 @@ plt.ylabel("Attendance")
 plt.show()
 top_students = df.sort_values(by=["Average"], ascending=False).head(5)
 weak_students = df[df["Average"] < 70]
-print("\nTop Performing Students:")
+print("\Top Performing Students:\n")
 print(top_students[["name", "Average", "AverageGrade"]])
 print("\nWeak Students (At Risk):")
 print(weak_students[["name", "Average", "AverageGrade"]])
@@ -63,3 +63,4 @@ df["PerformanceCategory"] = df.apply(
 print("Final Student Performance Summary:\n")
 
 print(df[["name", "Attendance", "Average", "AverageGrade", "PerformanceCategory"]])
+
